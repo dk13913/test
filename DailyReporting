@@ -1,0 +1,115 @@
+<html>
+<Title>UpSouth Chincwad - Daily Reporting</Title>
+  <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+
+  <body> 
+  <div class="topnav">
+  <a class="active" href="#home">Daily Report</a>
+  <a href="#news">Petty Cash</a>
+  <a href="#contact">Cash Deposit to Bank</a>
+  <a href="#about">Expense Reporting</a>
+  <a href="#about">UpSouth Chinchwad</a>
+</div>
+
+<div style="padding-left:16px">
+  <h2>Top Navigation Example</h2>
+  <p>Some content..</p>
+</div>
+
+    
+    <Center>
+  <H1>UpSouth Chinchwad</H1>
+  <H2>Daily Reporting</H2>
+
+  <H2>Summary:<a target="_blank" href="https://airtable.com/invite/l?inviteId=invsnfNnpueMMZmcs&inviteToken=267a3d7e1f9c42398909d46e8cc8b2ce54e8a5308adfa6c13f922b02ad05d822&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts">Click here</a></h2>
+  
+  <BR>  
+  
+  <H2>Enter new expense:<a target="_blank" href="https://airtable.com/appkAn7j0kIINySc9/shrSwUbGxoyqQQn4g">Click here</a></H2>
+  <H2>Enter new deposits: <a target="_blank" href="https://airtable.com/appkAn7j0kIINySc9/shr9gH7gTQjo4wywi">Click here</a></H2>
+  
+  <BR>
+  
+  <H2>All transaction grid view:<a target="_blank" href="https://airtable.com/appkAn7j0kIINySc9/shrtA5i5QCTzVjvf2">Click here</a></H2>
+  <H2>Expense grid view:<a target="_blank" href="https://airtable.com/appkAn7j0kIINySc9/shrlXYtXQ5ucl6rWi">Click here</a></H2>
+  <H2>Deposit grid view:<a target="_blank" href="https://airtable.com/appkAn7j0kIINySc9/shrHq662GABU1kIFm">Click here</a></H2>
+  
+  <BR>
+  
+  <H2>Deposit grid view:<a target="_blank" href="https://airtable.com/appkAn7j0kIINySc9/shr93gzy8z8L0YySQ">Click here</a></H2>
+
+    
+  </Center>
+<BR>
+    <a target="_blank" href="https://airtable.com/appiQvmOqeAJk0Lki/shrON9QEMKuZnmy8T">Daily reporting</a>
+<BR>
+    <a target="_blank" href="https://airtable.com/appiQvmOqeAJk0Lki/shrpd3lE4NYBUTZHQ">PettyCash Deposit Form</a>
+<BR>
+    <a target="_blank" href="https://airtable.com/appiQvmOqeAJk0Lki/shrgQI3jjR9CT8E1C">PettyCash Grid View</a>
+<BR>
+    <a target="_blank" href="https://airtable.com/appiQvmOqeAJk0Lki/shrjx7zPdQYSx6Iq8">Cash Deposit to bank form</a>
+<BR>
+    <a target="_blank" href="https://airtable.com/appiQvmOqeAJk0Lki/shri1ku3cB5VK2FhL">Bank Deposit grid view</a>
+<BR>
+<BR>
+
+<h2> Daily Reporting Grid </h2>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appiQvmOqeAJk0Lki/shrON9QEMKuZnmy8T?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<BR>
+
+<h2> Bank Deposit </h2>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appiQvmOqeAJk0Lki/shri1ku3cB5VK2FhL?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<BR>
+
+<h2> Petty Cash Deposit </h2>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appiQvmOqeAJk0Lki/shrgQI3jjR9CT8E1C?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe><BR>
+
+<BR>    
+<BR>    
+
+<h2> Daily Reporting Calendar View </h2>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appiQvmOqeAJk0Lki/shrwBA7Vfgn0e3t8a?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  
+<BR>
+<h2> Cash Deposits to Bank Calendar View </h2>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appiQvmOqeAJk0Lki/shrjnV9NwJ4aTPwgD?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> 
+
+<BR>
+<h2> PettyCash Deposits Calendar View </h2>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appiQvmOqeAJk0Lki/shrFAKcBxxo9rLkh3?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  
+  
+  </body>
+  </html>
